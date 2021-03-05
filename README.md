@@ -20,12 +20,12 @@
 ![GIT Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SUBLIME-TEXT Badge](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
 #
-<a href="https://github.com/mirarus">
+<span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mirarus&show_icons=true&include_all_commits=true&cache_seconds=1800" />
-</a>
-<a href="https://github.com/mirarus">
+</span>
+<span>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirarus&langs_count=3&layout=default" />
-</a>
+</span>
 <hr>
 <a href="https://github.com/mirarus/basic-mvc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mirarus&repo=basic-mvc&show_owner=true" />
