@@ -70,4 +70,4 @@ Python                   1 repo              █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-[![Ali Güçlü's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mirarus)]
+[![Ali Güçlü's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mirarus)]()
