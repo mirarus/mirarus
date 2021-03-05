@@ -21,8 +21,10 @@
 ![GIT Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SUBLIME-TEXT Badge](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirarus&locale=tr) ![Ali's github stats](https://github-readme-stats.vercel.app/api?username=mirarus&show_icons=true&include_all_commits=true&cache_seconds=1800&locale=tr) ![Pin Basic MVC](https://github-readme-stats.vercel.app/api/pin/?username=mirarus&repo=basic-mvc&show_owner=true&locale=tr)
+![Ali's github stats](https://github-readme-stats.vercel.app/api?username=mirarus&show_icons=true&include_all_commits=true&cache_seconds=1800&locale=tr) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirarus&langs_count=3&locale=tr) 
 
+![Pin Basic MVC](https://github-readme-stats.vercel.app/api/pin/?username=mirarus&repo=basic-mvc&show_owner=true&locale=tr)  
+#
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
