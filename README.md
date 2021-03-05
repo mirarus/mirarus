@@ -71,3 +71,4 @@ Python                   1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ![](https://github-readme-stats.vercel.app/api?username=mirarus&show_icons=true&locale=tr&cache_seconds=1800)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mirarus&layout=compact)
