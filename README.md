@@ -22,10 +22,10 @@
 ![SUBLIME-TEXT Badge](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
 #
 <a href="https://github.com/mirarus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mirarus&show_icons=true&include_all_commits=true&cache_seconds=1800&hide=contribs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mirarus&show_icons=true&include_all_commits=true&cache_seconds=1800" />
 </a>
 <a href="https://github.com/mirarus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirarus&langs_count=2&layout=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirarus&langs_count=3&layout=default" />
 </a>
 <hr>
 <a href="https://github.com/mirarus/basic-mvc">
