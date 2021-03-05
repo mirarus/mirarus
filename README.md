@@ -39,8 +39,6 @@ Sunday       5 commits      ██░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Istanbul
-
 💬 Programming Languages: 
 No Activity Tracked This Week
 
@@ -48,9 +46,6 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 
 ```
