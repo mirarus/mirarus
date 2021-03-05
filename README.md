@@ -27,8 +27,7 @@
 <a href="https://github.com/mirarus">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirarus&layout=compact" />
 </a>
-
-
+</hr>
 <a href="https://github.com/mirarus/basic-mvc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mirarus&repo=basic-mvc&show_owner=true" />
 </a>
