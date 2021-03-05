@@ -72,4 +72,4 @@ Python                   1 repo              █░░░░░░░░░░�
 
 ![](https://github-readme-stats.vercel.app/api?username=mirarus&show_icons=true&locale=tr&cache_seconds=1800)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mirarus&layout=compact&show_icons=true&locale=tr)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mirarus&layout=compact&locale=tr)
