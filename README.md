@@ -6,7 +6,7 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mirarus)
 
 
-- 🔭 **I’m currently working on server side Java technologies.**
+- 🔭 **I’m PHP (Backend) Developer.**
 - 🌱 **I’m currently learning natural language processing.**
 
 **Languages and Tools:**  
