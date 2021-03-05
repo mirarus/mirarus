@@ -67,9 +67,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ```
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/mirarus/mirarus/main/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
