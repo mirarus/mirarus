@@ -70,7 +70,4 @@ Python                   1 repo              █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirarus)](https://github.com/mirarus)
->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirarus&layout=compact)](https://github.com/mirarus)
-
+[![Ali Güçlü's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mirarus)]
