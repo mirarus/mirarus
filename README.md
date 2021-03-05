@@ -20,6 +20,7 @@
 ![NODEJS Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![GIT Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SUBLIME-TEXT Badge](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
-
+#
 ![Stats](https://github-readme-stats.vercel.app/api?username=mirarus&show_icons=true&include_all_commits=true&cache_seconds=1800&hide=contribs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirarus&layout=compact) 
+#
 ![Pin Basic MVC](https://github-readme-stats.vercel.app/api/pin/?username=mirarus&repo=basic-mvc&show_owner=true&locale=tr)
