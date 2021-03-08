@@ -27,4 +27,5 @@
 <hr>
 <a href="https://github.com/mirarus/basic-mvc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mirarus&repo=basic-mvc&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mirarus&repo=basic-mvc-without-composer&show_owner=true" />
 </a>
