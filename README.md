@@ -29,7 +29,4 @@
   <a href="https://github.com/mirarus/bmvc">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mirarus&repo=bmvc&show_owner=true" />
   </a>
-  <a href="https://github.com/mirarus/basic-mvc">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mirarus&repo=basic-mvc&show_owner=true" />
-  </a>
 </div>
