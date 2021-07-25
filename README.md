@@ -31,4 +31,7 @@
   <a href="https://github.com/mirarus/bmvc-core">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mirarus&repo=bmvc-core&show_owner=true" />
   </a>
+  <a href="https://github.com/mirarus/bmvc-libs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mirarus&repo=bmvc-libs&show_owner=true" />
+  </a>
 </div>
