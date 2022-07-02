@@ -19,12 +19,12 @@
 ![NODEJS Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![GIT Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<div style="display: flex;justify-content: space-evenly">
+<div class="x-flex">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mirarus&show_icons=true&include_all_commits=true&cache_seconds=1800" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirarus&langs_count=3&layout=default" />
 </div>
 <hr>
-<div style="display: flex;justify-content: space-evenly">
+<div class="x-flex">
   <a href="https://github.com/mirarus/bmvc-core">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mirarus&repo=bmvc-core&show_owner=true" />
   </a>
@@ -32,3 +32,4 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mirarus&repo=bmvc-libs&show_owner=true" />
   </a>
 </div>
+<style>.x-flex {display: flex;justify-content: space-evenly;}</style>
