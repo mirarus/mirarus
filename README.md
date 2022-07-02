@@ -19,12 +19,12 @@
 ![NODEJS Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![GIT Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<div>
+<div style="display: flex;justify-content: space-evenly">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mirarus&show_icons=true&include_all_commits=true&cache_seconds=1800" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirarus&langs_count=3&layout=default" />
 </div>
 <hr>
-<div>
+<div style="display: flex;justify-content: space-evenly">
   <a href="https://github.com/mirarus/bmvc-core">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mirarus&repo=bmvc-core&show_owner=true" />
   </a>
