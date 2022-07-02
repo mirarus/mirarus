@@ -20,5 +20,5 @@
 ![GIT Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <div align="center">
-  <object data="content.svg" type="image/svg+xml"></object>
+  <img src="content.svg"></img>
 </div>
