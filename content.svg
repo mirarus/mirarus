@@ -85,16 +85,16 @@
 			</style>
 			<div class="container">
 <div>
-<iframe align="center" src="https://github-readme-stats.vercel.app/api?username=mirarus&amp;show_icons=true&amp;include_all_commits=true&amp;cache_seconds=1800"></iframe>
-<iframe align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirarus&amp;langs_count=3&amp;layout=default"></iframe>
+<iframe align="center" src="https://github-readme-stats.vercel.app/api?username=mirarus&amp;show_icons=true&amp;include_all_commits=true&amp;cache_seconds=1800" scrolling="no"></iframe>
+<iframe align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirarus&amp;langs_count=3&amp;layout=default" scrolling="no"></iframe>
 </div>
 
 <div>
   <a href="https://github.com/mirarus/bmvc-core">
-	<iframe align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mirarus&amp;repo=bmvc-core&amp;show_owner=true"></iframe>
+	<iframe align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mirarus&amp;repo=bmvc-core&amp;show_owner=true" scrolling="no"></iframe>
   </a>
   <a href="https://github.com/mirarus/bmvc-libs">
-<iframe align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mirarus&amp;repo=bmvc-libs&amp;show_owner=true"></iframe>
+<iframe align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mirarus&amp;repo=bmvc-libs&amp;show_owner=true" scrolling="no"></iframe>
   </a>
 </div>
 			</div>
