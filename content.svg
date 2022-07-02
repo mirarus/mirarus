@@ -61,7 +61,7 @@
 					text-align: center;
 				}
 
-				.container div a img {
+				.container div div {
 					font-size: 50px;
 					line-height: 1.3;
 					letter-spacing: 5px;
@@ -78,19 +78,28 @@
 				.call-data { 
 				         background: url('https://github-readme-stats.vercel.app/api?username=mirarus&amp;show_icons=true&amp;include_all_commits=true&amp;cache_seconds=1800');
 				}
+				.call-top-langs { 
+				         background: url('https://github-readme-stats.vercel.app/api/top-langs/?username=mirarus&amp;langs_count=3&amp;layout=default');
+				}
+				.call-pin1 { 
+				         background: url('https://github-readme-stats.vercel.app/api/pin/?username=mirarus&amp;repo=bmvc-core&amp;show_owner=true');
+				}
+				.call-pin2 { 
+				         background: url('https://github-readme-stats.vercel.app/api/pin/?username=mirarus&amp;repo=bmvc-libs&amp;show_owner=true');
+				}
 			</style>
 			<div class="container">
 <div>
 	<div align="center" class="call-data"></div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirarus&amp;langs_count=3&amp;layout=default" />
+	<div align="center" class=".call-top-langs"></div>
 </div>
 
 <div>
   <a href="https://github.com/mirarus/bmvc-core">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mirarus&amp;repo=bmvc-core&amp;show_owner=true" />
+	  <div align="center" class=".call-pin1"></div>
   </a>
   <a href="https://github.com/mirarus/bmvc-libs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mirarus&amp;repo=bmvc-libs&amp;show_owner=true" />
+    <div align="center" class=".call-pin2"></div>
   </a>
 </div>
 			</div>
