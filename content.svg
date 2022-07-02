@@ -61,7 +61,7 @@
 					text-align: center;
 				}
 
-				.container div div {
+				.container div iframe {
 					font-size: 50px;
 					line-height: 1.3;
 					letter-spacing: 5px;
@@ -75,31 +75,20 @@
 					animation: rotate ease-in-out 1s infinite alternate;
 				}
 				.container div {display: flex;justify-content: space-evenly;}
-				.call-data { 
-				         background: url('https://github-readme-stats.vercel.app/api?username=mirarus&amp;show_icons=true&amp;include_all_commits=true&amp;cache_seconds=1800');
-				}
-				.call-top-langs { 
-				         background: url('https://github-readme-stats.vercel.app/api/top-langs/?username=mirarus&amp;langs_count=3&amp;layout=default');
-				}
-				.call-pin1 { 
-				         background: url('https://github-readme-stats.vercel.app/api/pin/?username=mirarus&amp;repo=bmvc-core&amp;show_owner=true');
-				}
-				.call-pin2 { 
-				         background: url('https://github-readme-stats.vercel.app/api/pin/?username=mirarus&amp;repo=bmvc-libs&amp;show_owner=true');
-				}
+
 			</style>
 			<div class="container">
 <div>
-	<div align="center" class="call-data"></div>
-	<div align="center" class=".call-top-langs"></div>
+<iframe align="center" src="https://github-readme-stats.vercel.app/api?username=mirarus&amp;show_icons=true&amp;include_all_commits=true&amp;cache_seconds=1800"></iframe>
+<iframe align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirarus&amp;langs_count=3&amp;layout=default"></iframe>
 </div>
 
 <div>
   <a href="https://github.com/mirarus/bmvc-core">
-	  <div align="center" class=".call-pin1"></div>
+	<iframe align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mirarus&amp;repo=bmvc-core&amp;show_owner=true"></iframe>
   </a>
   <a href="https://github.com/mirarus/bmvc-libs">
-    <div align="center" class=".call-pin2"></div>
+<iframe align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mirarus&amp;repo=bmvc-libs&amp;show_owner=true"></iframe>
   </a>
 </div>
 			</div>
