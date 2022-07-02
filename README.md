@@ -22,18 +22,3 @@
 <div align="center">
   <img src="content.svg">
 </div>
-
-<div class="x-flex">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mirarus&show_icons=true&include_all_commits=true&cache_seconds=1800" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirarus&langs_count=3&layout=default" />
-</div>
-<hr>
-<div class="x-flex">
-  <a href="https://github.com/mirarus/bmvc-core">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mirarus&repo=bmvc-core&show_owner=true" />
-  </a>
-  <a href="https://github.com/mirarus/bmvc-libs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mirarus&repo=bmvc-libs&show_owner=true" />
-  </a>
-</div>
-<style>.x-flex {display: flex;justify-content: space-evenly;}</style>
