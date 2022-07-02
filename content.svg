@@ -72,8 +72,14 @@
 						0 3px 0 #efefef,
 						0 4px 0 #efefef,
 						0 12px 5px rgba(0, 0, 0, 0.1);
-					animation: rotate ease-in-out 1s infinite alternate;
+					animation: rotate ease-in-out 2s infinite alternate;
+				border: none;
+				margin: 5px;
+				overflow: hidden;
+				-ms-overflow-style: none;
+				scrollbar-width: none;
 				}
+				.container div iframe::-webkit-scrollbar {display: none;}
 				.container div {display: flex;justify-content: space-evenly;}
 
 			</style>
