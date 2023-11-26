@@ -2,7 +2,7 @@
 
 ![Discord Presence](https://lanyard.cnrad.dev/api/423138537509224449)
 
-** Social Media:**
+**Social Media:**
 
 [![Buy Mea Coffee Badge](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/aliguclu)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/423138537509224449)
