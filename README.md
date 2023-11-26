@@ -1,9 +1,8 @@
 # Hi there 👋, I am Ali Güçlü
 
-![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-[![Discord Presence](https://lanyard.cnrad.dev/api/423138537509224449)](https://discord.com/users/423138537509224449)
+![Discord Presence](https://lanyard.cnrad.dev/api/423138537509224449)
 <a href="https://www.buymeacoffee.com/aliguclu" target="_blank"><img src="https://cdn.discordapp.com/attachments/715130970294059088/1044868358740377650/coffee.png"/></a>
-<a href="https://discord.gg/mirarus" target="_blank"><img src="https://cdn.discordapp.com/attachments/715130970294059088/1044855172494532628/discord.png"/></a>
+<a href="[https://discord.gg/423138537509224449](https://discord.com/users/423138537509224449)" target="_blank"><img src="https://cdn.discordapp.com/attachments/715130970294059088/1044855172494532628/discord.png"/></a>
 
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ali-mirarus)
