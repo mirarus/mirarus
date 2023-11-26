@@ -1,7 +1,7 @@
 # Hi there 👋, I am Ali Güçlü
 
-- 🔭 **I’m PHP (Backend) Developer.**
-- 🌱 **I’m currently learning Javascript language.**
+- 🌐 **I’m PHP (Backend) Developer.**
+- 🚀 **I’m currently learning Javascript language.**
 
 **Social Media:**
 
