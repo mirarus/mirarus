@@ -1,6 +1,5 @@
 # Hi there 👋, I am Ali Güçlü
 
-<h3>🖮 Coding</h3>
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 [![Discord Presence](https://lanyard.cnrad.dev/api/423138537509224449)](https://discord.com/users/423138537509224449)
 <a href="https://www.buymeacoffee.com/aliguclu" target="_blank"><img src="https://cdn.discordapp.com/attachments/715130970294059088/1044868358740377650/coffee.png"/></a>
