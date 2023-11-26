@@ -40,13 +40,13 @@
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 <hr/>
-**Discord Stats:**
+
+**Stats:** 
+
 ![Discord Presence](https://lanyard.cnrad.dev/api/423138537509224449)
-<hr/>
 
-**Github Stats:** 
+<br/>
 
-<br>
 <div style="display: flex;justify-content: space-evenly">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mirarus&show_icons=true&include_all_commits=true&cache_seconds=60" />
 </div>
