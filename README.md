@@ -5,6 +5,7 @@
 <a href="https://www.buymeacoffee.com/aliguclu" target="_blank"><img src="https://cdn.discordapp.com/attachments/715130970294059088/1044868358740377650/coffee.png"/></a>
 <a href="[https://discord.gg/423138537509224449](https://discord.com/users/423138537509224449)" target="_blank"><img src="https://cdn.discordapp.com/attachments/715130970294059088/1044855172494532628/discord.png"/></a>
 
+[![Discord Badge](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/aliguclu)
 
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/423138537509224449)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ali-mirarus)
