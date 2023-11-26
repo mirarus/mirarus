@@ -1,5 +1,7 @@
 # Hi there 👋, I am Ali Güçlü
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/423138537509224449)](https://discord.com/users/423138537509224449)
+
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ali-mirarus)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliguclutr@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-guclu)
