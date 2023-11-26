@@ -41,11 +41,13 @@
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<br>
 <hr>
+**Stats:**  
+<br>
 <div style="display: flex;justify-content: space-evenly">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mirarus&show_icons=true&include_all_commits=true&cache_seconds=60" />
 </div>
+<br>
 <div style="display: flex;justify-content: space-evenly">
   <a href="https://github.com/mirarus/bmvc-core">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mirarus&repo=bmvc-core&show_owner=true" />
