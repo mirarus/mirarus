@@ -1,6 +1,7 @@
 # Hi there 👋, I am Ali Güçlü
 
-![Discord Presence](https://lanyard.cnrad.dev/api/423138537509224449)
+- 🔭 **I’m PHP (Backend) Developer.**
+- 🌱 **I’m currently learning Javascript language.**
 
 **Social Media:**
 
@@ -12,9 +13,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliguclutr@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-guclu)
 
-
-- 🔭 **I’m PHP (Backend) Developer.**
-- 🌱 **I’m currently learning Javascript language.**
 
 **Languages, Tools, Editors and Operation Systems:**  
 
@@ -43,7 +41,7 @@
 
 <hr/>
 
-**Stats:** 
+**Github Stats:** 
 
 <br>
 <div style="display: flex;justify-content: space-evenly">
