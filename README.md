@@ -40,6 +40,11 @@
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 <hr/>
+**Discord Stats:**
+
+![Discord Presence](https://lanyard.cnrad.dev/api/423138537509224449)
+
+<hr/>
 
 **Github Stats:** 
 
