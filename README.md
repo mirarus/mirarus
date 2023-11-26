@@ -1,10 +1,8 @@
 # Hi there 👋, I am Ali Güçlü
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/423138537509224449)](https://discord.com/users/423138537509224449)
-
 <h3>🖮 Coding</h3>
+[![Discord Presence](https://lanyard.cnrad.dev/api/423138537509224449)](https://discord.com/users/423138537509224449)
 <div align="center">
-<img width="38%" src="https://lanyard-profile-readme.vercel.app/api/423138537509224449" /><br>  
    <a href="https://www.buymeacoffee.com/aliguclu" target="_blank"><img src="https://cdn.discordapp.com/attachments/715130970294059088/1044868358740377650/coffee.png"/></a>
    <a href="https://discord.gg/mirarus" target="_blank"><img src="https://cdn.discordapp.com/attachments/715130970294059088/1044855172494532628/discord.png"/></a>
 </div>
