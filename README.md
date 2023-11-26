@@ -43,8 +43,7 @@
 
 <br>
 <div style="display: flex;justify-content: space-evenly">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mirarus&show_icons=true&include_all_commits=true&cache_seconds=1800" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirarus&langs_count=3&layout=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mirarus&show_icons=true&include_all_commits=true&cache_seconds=60" />
 </div>
 <hr>
 <div style="display: flex;justify-content: space-evenly">
