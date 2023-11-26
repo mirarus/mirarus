@@ -41,9 +41,7 @@
 
 <hr/>
 **Discord Stats:**
-
 ![Discord Presence](https://lanyard.cnrad.dev/api/423138537509224449)
-
 <hr/>
 
 **Github Stats:** 
